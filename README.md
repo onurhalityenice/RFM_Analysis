@@ -1,4 +1,4 @@
-# RFM_Analysis
+# RFM Analysis
 Customer segmentation over the dataset of the online shoe store
 
 # Business Problem
